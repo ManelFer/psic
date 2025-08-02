@@ -11,8 +11,8 @@ const Services = () => {
     },
     {
       icon: Users,
-      title: "Terapia Familiar",
-      description: "Apoio à dinâmica familiar, comunicação e vínculo entre pais e filhos. Ideal para momentos de crise, transição ou desafios recorrentes.",
+      title: "Palestras",
+      description: "Ministro palestras sobre temas fundamentais para o bem-estar emocional dos jovens, como ansiedade, depressão, autoestima, comunicação assertiva, além de questões importantes como o Setembro Amarelo, ENEM e transição para a faculdade.",
       gradient: "from-[#D4AF37] to-[#F4E17B]"
     },
     {

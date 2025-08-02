@@ -31,7 +31,7 @@ const About = () => {
                   <Award className="text-white" size={24} />
                 </div>
                 <div>
-                  <div className="text-2xl font-bold text-[#9476C4]">12+</div>
+                  <div className="text-2xl font-bold text-[#9476C4]">6+</div>
                   <div className="text-sm text-gray-600">Anos de experiência</div>
                 </div>
               </div>
@@ -45,7 +45,7 @@ const About = () => {
               </h2>
               <div className="space-y-6 text-lg text-gray-700 leading-relaxed">
                 <p>
-                  Com mais de 12 anos de experiência em psicologia infantil e do adolescente, dedico minha carreira a criar um espaço seguro e nutritivo onde as mentes jovens possam se desenvolver e florescer.
+                  Com mais de 6 anos de experiência em psicologia infantil e do adolescente, dedico minha carreira a criar um espaço seguro e nutritivo onde as mentes jovens possam se desenvolver e florescer.
                 </p>
                 <p>
                   Ao longo da minha trajetória, tenho me dedicado a compreender os desafios únicos enfrentados por crianças e adolescentes no mundo contemporâneo.
