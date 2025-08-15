@@ -38,7 +38,7 @@ const Services = () => {
             Um pouco sobre os meus atendimentos
           </h2>
           <p className="text-xl text-gray-700 max-w-4xl mx-auto leading-relaxed">
-            Ofereço atendimentos psicológicos personalizados voltados ao público infantojuvenil, focados nas necessidades emocionais, comportamentais e familiares que surgem em diferentes fases do desenvolvimento.
+            Ofereço atendimentos psicológicos personalizados voltados ao público jovem adulto, focados nas necessidades emocionais, comportamentais e familiares que surgem em diferentes fases do desenvolvimento.
           </p>
         </div>
 
