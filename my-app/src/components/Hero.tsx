@@ -1,4 +1,3 @@
-import home1 from '../../public/home1.jpg';
 import { Calendar, Heart } from 'lucide-react';
 
 const Hero = () => {
@@ -10,7 +9,10 @@ const Hero = () => {
   };
 
   return (
-    <section id="inicio" className="pt-20 pb-16 bg-gradient-to-br from-[#F4F3FB] via-white to-[#DCD4F0] min-h-screen flex items-center">
+    <section
+      id="inicio"
+      className="pt-20 pb-16 bg-gradient-to-br from-[#F4F3FB] via-white to-[#DCD4F0] min-h-screen flex items-center"
+    >
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8 animate-fade-in">
@@ -19,7 +21,8 @@ const Hero = () => {
                 Dra. Laura Ferreira
               </h1>
               <p className="text-xl lg:text-2xl text-gray-700 leading-relaxed">
-                Cuidados psicológicos especializados para crianças e adolescentes em um ambiente acolhedor, empático e solidário.
+                Cuidados psicológicos especializados para crianças e adolescentes
+                em um ambiente acolhedor, empático e solidário.
               </p>
             </div>
 
@@ -47,7 +50,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
               <div className="w-full max-h-[800px] bg-gradient-to-br from-[#F4F3FB] to-[#DCD4F0] rounded-3xl overflow-hidden shadow-xl flex items-center justify-center">
                 <img
-                  src={home1}
+                  src="../../public/home1.jpg" // acesso direto à imagem em public/
                   alt="imagem de Dra Laura"
                   className="w-full h-full object-contain"
                 />
