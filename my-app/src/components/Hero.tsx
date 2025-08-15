@@ -50,7 +50,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
               <div className="w-full max-h-[800px] bg-gradient-to-br from-[#F4F3FB] to-[#DCD4F0] rounded-3xl overflow-hidden shadow-xl flex items-center justify-center">
                 <img
-                  src="../../public/home1.jpg" // acesso direto à imagem em public/
+                  src="/home1.JPG"
                   alt="imagem de Dra Laura"
                   className="w-full h-full object-contain"
                 />
