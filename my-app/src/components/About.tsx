@@ -1,6 +1,4 @@
-
-import perfil2 from '../../public/perfil2.jpg'; // mudar aqui
-import { Award, Calendar} from 'lucide-react';
+import { Award, Calendar } from 'lucide-react';
 
 const About = () => {
   const scrollToSection = (sectionId: string) => {
@@ -17,12 +15,11 @@ const About = () => {
           <div className="relative">
             <div className="w-full max-h-[800px] bg-gradient-to-br from-[#F4F3FB] to-[#DCD4F0] rounded-3xl overflow-hidden shadow-xl flex items-center justify-center">
               <img
-                src={perfil2} // mudar aqui
+                src="../../public/perfil2.jpg" 
                 alt="imagem de Dra Laura"
                 className="w-full h-full object-contain"
               />
             </div>
-
 
             {/* Stats card */}
             <div className="absolute -bottom-8 -right-8 bg-white p-6 rounded-2xl shadow-2xl">
