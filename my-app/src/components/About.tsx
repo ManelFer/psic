@@ -1,6 +1,6 @@
 
 import perfil2 from '../../public/perfil2.jpg'; // mudar aqui
-import { Award, Calendar, FileText } from 'lucide-react';
+import { Award, Calendar} from 'lucide-react';
 
 const About = () => {
   const scrollToSection = (sectionId: string) => {
@@ -60,11 +60,6 @@ const About = () => {
               >
                 <Calendar size={20} />
                 <span>Agende sua consulta</span>
-              </button>
-
-              <button className="flex items-center justify-center space-x-3 border-2 border-[#9476C4] text-[#9476C4] px-8 py-4 rounded-full font-semibold hover:bg-[#9476C4] hover:text-white transition-all duration-300">
-                <FileText size={20} />
-                <span>Meu currículo</span>
               </button>
             </div>
           </div>
