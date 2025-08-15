@@ -15,7 +15,7 @@ const About = () => {
           <div className="relative">
             <div className="w-full max-h-[800px] bg-gradient-to-br from-[#F4F3FB] to-[#DCD4F0] rounded-3xl overflow-hidden shadow-xl flex items-center justify-center">
               <img
-                src="../../public/perfil2.jpg" 
+                src="/perfil2.jpg" 
                 alt="imagem de Dra Laura"
                 className="w-full h-full object-contain"
               />
