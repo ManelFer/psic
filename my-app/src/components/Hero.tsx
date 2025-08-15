@@ -21,7 +21,7 @@ const Hero = () => {
                 Dra. Laura Ferreira
               </h1>
               <p className="text-xl lg:text-2xl text-gray-700 leading-relaxed">
-                Cuidados psicológicos especializados para crianças e adolescentes
+                Cuidados psicológicos especializados para adolescentes e adultos
                 em um ambiente acolhedor, empático e solidário.
               </p>
             </div>
