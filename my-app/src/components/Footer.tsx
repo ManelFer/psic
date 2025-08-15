@@ -21,7 +21,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://www.linkedin.com/in/laura-ferreira-271763253"
                 className="bg-white/20 p-2 rounded-full hover:bg-white/30 transition-colors duration-300"
               >
                 <Linkedin size={20} />
